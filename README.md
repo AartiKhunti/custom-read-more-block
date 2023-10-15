@@ -1,4 +1,4 @@
-# Custom_Gutenberg_Block
+# Custom Gutenberg Block
 
 ## Read More
 
